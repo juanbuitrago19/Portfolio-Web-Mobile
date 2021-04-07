@@ -1,0 +1,5 @@
+Este es un archivo inicial para pobar git
+Mi edad es 26 años
+Soy de colombia
+Hoy es un gran dia
+Este es un nuevo texto el cual nos servidar para ver diferencias entre archivos
